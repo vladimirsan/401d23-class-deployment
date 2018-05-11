@@ -6,4 +6,5 @@
 - go to github.com and make a new repo
 - add a .gitignore to your repo
 - add remote to local repo
+`git remote add origin <URL>`
 - make sure you *NEVER* publish your amazon keys
